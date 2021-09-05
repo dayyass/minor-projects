@@ -1,4 +1,4 @@
-### Minor projects
+### Minor Projects
 
 - [Neural Machine Translation](https://github.com/dayyass/neural_machine_translation) - pipeline for training Stanford Seq2seq Neural Machine Translation using PyTorch
 - [Language Modeling](https://github.com/dayyass/language_modeling) - pipeline for training Language Models using PyTorch
